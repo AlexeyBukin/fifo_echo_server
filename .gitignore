@@ -1,6 +1,7 @@
 # Clion files
 cmake-build-debug
 .idea
+.my_fifo
 
 # Prerequisites
 *.d
